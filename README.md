@@ -2,7 +2,7 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://lishige.github.io/)
 
 - 🍻 Junior at 🇨🇳 [SJZC](https://www.sjzc.edu.cn) in Computer Science.
-- :octocat: Java / Python.
+- :octocat: Java / Python / Shell.
 - 🖋 Reader at [sspai](https://sspai.com/u/lishige).
 
 
